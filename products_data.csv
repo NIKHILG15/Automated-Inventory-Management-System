@@ -1,0 +1,251 @@
+Product_ID,Product_Name,Prod_Category,Supplier_ID,Selling_Price,Purchasing_Price
+PROD-0001,Disinfectant Spray,Cleaning & Household Essentials,SPL-001,26.13,23.13
+PROD-0002,Printer,Office Supplies,SPL-002,38.82,34.76
+PROD-0003,Smart Plug,Smart Home Devices,SPL-003,320.91,286.37
+PROD-0004,Wallet,Accessories,SPL-004,19.76,17.95
+PROD-0005,Wristwatch,Accessories,SPL-005,53.97,47.83
+PROD-0006,Wardrobe,Furniture,SPL-006,1187.72,1088.03
+PROD-0007,Smart Thermostat,Smart Home Devices,SPL-007,268.17,230.36
+PROD-0008,Motion Sensor,Smart Home Devices,SPL-008,342.39,306.01
+PROD-0009,Bed Frame,Furniture,SPL-009,1573.29,1394.49
+PROD-0010,Smartwatch,Electronics,SPL-010,1019.06,901.81
+PROD-0011,Microwave Oven,Home & Kitchen,SPL-011,98.85,88.77
+PROD-0012,Desk Lamp,Office Supplies,SPL-012,295.03,256.12
+PROD-0013,Coffee Maker,Home & Kitchen,SPL-013,244.8,217.61
+PROD-0014,Sofa Set,Furniture,SPL-014,979.72,847.19
+PROD-0015,Dish Soap,Cleaning & Household Essentials,SPL-015,47.03,44.51
+PROD-0016,Stapler,Office Supplies,SPL-016,132.31,123.56
+PROD-0017,Trash Bags,Cleaning & Household Essentials,SPL-017,54.33,51.49
+PROD-0018,Handbag,Accessories,SPL-018,105.87,90.23
+PROD-0019,Dining Table,Furniture,SPL-019,579.72,528.61
+PROD-0020,Tablet,Electronics,SPL-020,52.33,47.1
+PROD-0021,Voice Assistant,Smart Home Devices,SPL-021,607.78,527.41
+PROD-0022,Dish Rack,Home & Kitchen,SPL-022,362.14,329
+PROD-0023,Notebook,Office Supplies,SPL-023,379.88,332.75
+PROD-0024,Laptop,Electronics,SPL-024,1044.88,933.98
+PROD-0025,Broom,Cleaning & Household Essentials,SPL-025,10.95,9.8
+PROD-0026,Bookshelf,Furniture,SPL-026,1711.62,1577.4
+PROD-0027,Sunglasses,Accessories,SPL-027,274.83,236.64
+PROD-0028,File Cabinet,Office Supplies,SPL-028,111.45,97.77
+PROD-0029,Headphones,Electronics,SPL-029,455.54,426.78
+PROD-0030,Blender,Home & Kitchen,SPL-030,182.12,171.43
+PROD-0031,Security Camera,Smart Home Devices,SPL-031,449.22,425.32
+PROD-0032,Light Bulbs,Smart Home Devices,SPL-032,656.32,571.76
+PROD-0033,Belt,Accessories,SPL-033,251.12,236.09
+PROD-0034,Toaster,Home & Kitchen,SPL-034,213.57,185.43
+PROD-0035,Gaming Console,Electronics,SPL-035,761.96,708.28
+PROD-0036,Scarf,Accessories,SPL-036,242.5,220.55
+PROD-0037,Mop Set,Cleaning & Household Essentials,SPL-037,9.21,7.88
+PROD-0038,Camera,Electronics,SPL-038,514.36,453.22
+PROD-0039,Paper Shredder,Office Supplies,SPL-039,146.41,125.16
+PROD-0040,Smartphone,Electronics,SPL-040,837.69,756.65
+PROD-0041,Vacuum Cleaner,Cleaning & Household Essentials,SPL-041,43.15,38.05
+PROD-0042,Office Chair,Furniture,SPL-042,1513.99,1381.21
+PROD-0043,Whiteboard,Office Supplies,SPL-043,120.75,104.4
+PROD-0044,Smart Lock,Smart Home Devices,SPL-044,669.59,615.56
+PROD-0045,Laundry Detergent,Cleaning & Household Essentials,SPL-045,58.68,55.69
+PROD-0046,Backpack,Accessories,SPL-046,258.1,227.51
+PROD-0047,Air Fryer,Home & Kitchen,SPL-047,331.95,314.04
+PROD-0048,Wooden Table,Furniture,SPL-048,1535.66,1369.51
+PROD-0049,Cooking Utensils,Home & Kitchen,SPL-049,255.17,242.16
+PROD-0050,Handbag,Accessories,SPL-050,275.85,251.18
+PROD-0051,Handbag,Accessories,SPL-051,76.71,67.75
+PROD-0052,Headphones,Electronics,SPL-052,1175.53,1083.85
+PROD-0053,Voice Assistant,Smart Home Devices,SPL-053,573.4,522.17
+PROD-0054,Wallet,Accessories,SPL-054,124.65,107.87
+PROD-0055,Bed Frame,Furniture,SPL-055,164.62,140
+PROD-0056,Light Bulbs,Smart Home Devices,SPL-056,780.57,682.03
+PROD-0057,Handbag,Accessories,SPL-057,126.18,110.85
+PROD-0058,Stapler,Office Supplies,SPL-058,240.21,215.61
+PROD-0059,Camera,Electronics,SPL-059,472.13,431.91
+PROD-0060,Stapler,Office Supplies,SPL-060,68.75,63.71
+PROD-0061,Wooden Table,Furniture,SPL-061,555.73,489.2
+PROD-0062,Smart Lock,Smart Home Devices,SPL-062,732.78,653.44
+PROD-0063,File Cabinet,Office Supplies,SPL-063,165.91,149.52
+PROD-0064,Wristwatch,Accessories,SPL-064,224.76,213.15
+PROD-0065,Smart Thermostat,Smart Home Devices,SPL-065,732.7,636
+PROD-0066,Microwave Oven,Home & Kitchen,SPL-066,490.6,426.04
+PROD-0067,Light Bulbs,Smart Home Devices,SPL-067,370.52,350.23
+PROD-0068,Headphones,Electronics,SPL-068,1336.89,1149.63
+PROD-0069,Broom,Cleaning & Household Essentials,SPL-069,39.82,33.93
+PROD-0070,File Cabinet,Office Supplies,SPL-070,202.49,182.19
+PROD-0071,Wristwatch,Accessories,SPL-071,298,262.96
+PROD-0072,Broom,Cleaning & Household Essentials,SPL-072,22.77,19.5
+PROD-0073,Handbag,Accessories,SPL-073,146.31,136.19
+PROD-0074,Smart Plug,Smart Home Devices,SPL-074,190.46,177.75
+PROD-0075,Smartphone,Electronics,SPL-075,1491.87,1413.01
+PROD-0076,Stapler,Office Supplies,SPL-076,11.15,7.31
+PROD-0077,Broom,Cleaning & Household Essentials,SPL-077,58.54,51.91
+PROD-0078,Sunglasses,Accessories,SPL-078,156.69,136.02
+PROD-0079,Smart Thermostat,Smart Home Devices,SPL-079,399.35,342.26
+PROD-0080,Smart Lock,Smart Home Devices,SPL-080,273.17,254.59
+PROD-0081,Handbag,Accessories,SPL-081,59.77,56.17
+PROD-0082,Belt,Accessories,SPL-082,131.94,120.98
+PROD-0083,Dish Soap,Cleaning & Household Essentials,SPL-083,14.71,11.91
+PROD-0084,Stapler,Office Supplies,SPL-084,233.28,204.49
+PROD-0085,Sunglasses,Accessories,SPL-085,279.45,249.6
+PROD-0086,Voice Assistant,Smart Home Devices,SPL-086,538.43,500.5
+PROD-0087,Broom,Cleaning & Household Essentials,SPL-087,60.86,56.32
+PROD-0088,Coffee Maker,Home & Kitchen,SPL-088,336.28,313.12
+PROD-0089,Bookshelf,Furniture,SPL-089,1185.77,1096.07
+PROD-0090,Disinfectant Spray,Cleaning & Household Essentials,SPL-090,25.67,20.71
+PROD-0091,Stapler,Office Supplies,SPL-091,394.97,370.45
+PROD-0092,Office Chair,Furniture,SPL-092,1709.58,1461.65
+PROD-0093,Voice Assistant,Smart Home Devices,SPL-093,782.94,676.27
+PROD-0094,Toaster,Home & Kitchen,SPL-094,67.86,60.97
+PROD-0095,Tablet,Electronics,SPL-095,663.65,626.53
+PROD-0096,Gaming Console,Electronics,SPL-096,434.13,382.3
+PROD-0097,Belt,Accessories,SPL-097,123.3,108.89
+PROD-0098,Broom,Cleaning & Household Essentials,SPL-098,97.17,88.74
+PROD-0099,Tablet,Electronics,SPL-099,756.54,661.1
+PROD-0100,Stapler,Office Supplies,SPL-100,172.27,151.2
+PROD-0101,Gaming Console,Electronics,SPL-101,1378.76,1233.56
+PROD-0102,Sunglasses,Accessories,SPL-102,151.14,129.41
+PROD-0103,Air Fryer,Home & Kitchen,SPL-103,303.46,281.29
+PROD-0104,Coffee Maker,Home & Kitchen,SPL-104,465.2,415.32
+PROD-0105,Wallet,Accessories,SPL-105,169.49,148.41
+PROD-0106,Motion Sensor,Smart Home Devices,SPL-106,52.22,44.5
+PROD-0107,Security Camera,Smart Home Devices,SPL-107,295.39,269.96
+PROD-0108,Cooking Utensils,Home & Kitchen,SPL-108,125.67,111.33
+PROD-0109,Bookshelf,Furniture,SPL-109,559.91,507.61
+PROD-0110,Whiteboard,Office Supplies,SPL-110,389.97,346.96
+PROD-0111,Smart Lock,Smart Home Devices,SPL-111,90.63,84.84
+PROD-0112,File Cabinet,Office Supplies,SPL-112,184.56,161.14
+PROD-0113,Laundry Detergent,Cleaning & Household Essentials,SPL-113,85.93,73.64
+PROD-0114,Scarf,Accessories,SPL-114,243.81,225.2
+PROD-0115,Belt,Accessories,SPL-115,240,217.65
+PROD-0116,Dish Soap,Cleaning & Household Essentials,SPL-116,87.6,78.75
+PROD-0117,Backpack,Accessories,SPL-117,155.34,141.49
+PROD-0118,Bookshelf,Furniture,SPL-118,226.23,197.18
+PROD-0119,Gaming Console,Electronics,SPL-119,971.8,922.13
+PROD-0120,Light Bulbs,Smart Home Devices,SPL-120,404.02,363.75
+PROD-0121,Office Chair,Furniture,SPL-121,1260.1,1180.59
+PROD-0122,Smartphone,Electronics,SPL-122,286.39,252.16
+PROD-0123,Stapler,Office Supplies,SPL-123,176.23,158.68
+PROD-0124,Wallet,Accessories,SPL-124,247.7,217.63
+PROD-0125,Bed Frame,Furniture,SPL-125,159.39,142.01
+PROD-0126,Wallet,Accessories,SPL-126,47.6,42.29
+PROD-0127,Stapler,Office Supplies,SPL-127,65.67,59.16
+PROD-0128,Wallet,Accessories,SPL-128,82.18,77.76
+PROD-0129,Sunglasses,Accessories,SPL-129,39.78,34.53
+PROD-0130,Mop Set,Cleaning & Household Essentials,SPL-130,81.85,75.21
+PROD-0131,Dining Table,Furniture,SPL-131,1510.95,1340.83
+PROD-0132,Camera,Electronics,SPL-132,1444.56,1253.29
+PROD-0133,Voice Assistant,Smart Home Devices,SPL-133,223.99,204.04
+PROD-0134,Smart Lock,Smart Home Devices,SPL-134,73.58,66.81
+PROD-0135,Air Fryer,Home & Kitchen,SPL-135,422.35,362.78
+PROD-0136,Backpack,Accessories,SPL-136,130.38,116.94
+PROD-0137,Wooden Table,Furniture,SPL-137,1830.51,1729.95
+PROD-0138,Gaming Console,Electronics,SPL-138,74.81,68.2
+PROD-0139,Printer,Office Supplies,SPL-139,300.56,268.18
+PROD-0140,Smart Lock,Smart Home Devices,SPL-140,772.48,718.59
+PROD-0141,Notebook,Office Supplies,SPL-141,360.51,328.32
+PROD-0142,Stapler,Office Supplies,SPL-142,11.38,10.56
+PROD-0143,Paper Shredder,Office Supplies,SPL-143,199.1,178.02
+PROD-0144,Disinfectant Spray,Cleaning & Household Essentials,SPL-144,78.11,71.26
+PROD-0145,Mop Set,Cleaning & Household Essentials,SPL-145,13.99,12.76
+PROD-0146,Paper Shredder,Office Supplies,SPL-146,279.19,250.29
+PROD-0147,Desk Lamp,Office Supplies,SPL-147,173.04,154.35
+PROD-0148,Sunglasses,Accessories,SPL-148,53.04,50.13
+PROD-0149,Mop Set,Cleaning & Household Essentials,SPL-149,61.05,56.33
+PROD-0150,Smart Lock,Smart Home Devices,SPL-150,195.41,176.73
+PROD-0151,Office Chair,Furniture,SPL-151,685.03,650.46
+PROD-0152,Coffee Maker,Home & Kitchen,SPL-152,117.48,111.04
+PROD-0153,Document Scanner,Electronics,SPL-153,916.01,840.37
+PROD-0154,Desk Mat,Accessories,SPL-154,211.95,182.82
+PROD-0155,Tablet Stand,Accessories,SPL-155,173.99,154.99
+PROD-0156,Drawer Unit,Furniture,SPL-156,1280.88,1111.53
+PROD-0157,Bath Towels,Home & Kitchen,SPL-157,351.15,311.51
+PROD-0158,External SSD,Electronics,SPL-158,1054.35,907.09
+PROD-0159,Computer Speakers,Electronics,SPL-159,913.52,842.44
+PROD-0160,Gaming Keyboard,Electronics,SPL-160,739.13,637.57
+PROD-0161,Gaming Mouse Pad,Accessories,SPL-161,161.67,148.6
+PROD-0162,Rice Cooker,Home & Kitchen,SPL-162,35.25,30.48
+PROD-0163,Phone Grip,Accessories,SPL-163,58.64,54.6
+PROD-0164,Toaster Oven,Home & Kitchen,SPL-164,219.93,197.11
+PROD-0165,Laptop Stand,Accessories,SPL-165,31.79,29.93
+PROD-0166,Mechanical Keyboard,Electronics,SPL-166,239.62,224.05
+PROD-0167,Food Processor,Home & Kitchen,SPL-167,199.51,183.58
+PROD-0168,Monitor Stand,Furniture,SPL-168,293.97,260.32
+PROD-0169,Laptop Sleeve,Accessories,SPL-169,182.29,170.26
+PROD-0170,Wireless Mouse,Electronics,SPL-170,891.06,766.65
+PROD-0171,Power Strip,Electronics,SPL-171,922.19,806.35
+PROD-0172,Microphone,Electronics,SPL-172,520.33,460.97
+PROD-0173,Bookshelf,Furniture,SPL-173,1038.01,940.58
+PROD-0174,Portable Charger,Accessories,SPL-174,137.93,118.86
+PROD-0175,Bluetooth Headphones,Electronics,SPL-175,953.76,813.53
+PROD-0176,Noise Cancelling Headset,Electronics,SPL-176,717.85,632.74
+PROD-0177,Smart Watch,Electronics,SPL-177,283.75,265.57
+PROD-0178,Cable Organizer,Accessories,SPL-178,67.54,59.24
+PROD-0179,Storage Containers,Home & Kitchen,SPL-179,447.37,383.81
+PROD-0180,Kitchen Blender,Home & Kitchen,SPL-180,352.04,303.17
+PROD-0181,Wall Clock,Home & Kitchen,SPL-181,463.18,403.69
+PROD-0182,Storage Shelf,Furniture,SPL-182,523.69,496.35
+PROD-0183,WiFi Router,Electronics,SPL-183,833.1,736.19
+PROD-0184,Air Purifier,Home & Kitchen,SPL-184,216.06,196.44
+PROD-0185,Smartphone Case,Accessories,SPL-185,290.82,269.87
+PROD-0186,Standing Desk,Furniture,SPL-186,432.88,379.89
+PROD-0187,Throw Pillows,Home & Kitchen,SPL-187,196.23,171.91
+PROD-0188,Wireless Charger,Electronics,SPL-188,685.31,639.65
+PROD-0189,Wireless Presenter,Electronics,SPL-189,376.63,338.22
+PROD-0190,USB-C Hub,Electronics,SPL-190,1342.51,1198.6
+PROD-0191,Wireless Earbuds,Electronics,SPL-191,359.79,314.39
+PROD-0192,Electric Kettle,Home & Kitchen,SPL-192,100.23,85.96
+PROD-0193,Desk Organizer,Accessories,SPL-193,190.77,171.83
+PROD-0194,Screen Protector,Accessories,SPL-194,198.6,184.62
+PROD-0195,Desk Lamp,Home & Kitchen,SPL-195,234.82,222.44
+PROD-0196,4K Monitor,Electronics,SPL-196,758.19,716.25
+PROD-0197,Water Bottle,Home & Kitchen,SPL-197,142.33,132.84
+PROD-0198,File Cabinet,Furniture,SPL-198,815.43,755.66
+PROD-0199,Webcam HD,Electronics,SPL-199,1136.37,972.9
+PROD-0200,Keyboard Wrist Rest,Accessories,SPL-200,48.12,41.03
+PROD-0201,Office Chair,Furniture,SPL-201,1253.25,1164.56
+PROD-0202,Coffee Maker,Home & Kitchen,SPL-202,436.87,390.67
+PROD-0203,Document Scanner,Electronics,SPL-203,557.33,500.23
+PROD-0204,Desk Mat,Accessories,SPL-204,149.63,129.2
+PROD-0205,Tablet Stand,Accessories,SPL-205,20.93,17.84
+PROD-0206,Drawer Unit,Furniture,SPL-206,436.89,373.96
+PROD-0207,Bath Towels,Home & Kitchen,SPL-207,251.72,229.83
+PROD-0208,External SSD,Electronics,SPL-208,1113.5,1029.06
+PROD-0209,Computer Speakers,Electronics,SPL-209,483.85,425.11
+PROD-0210,Gaming Keyboard,Electronics,SPL-210,876.53,829.47
+PROD-0211,Gaming Mouse Pad,Accessories,SPL-211,298.62,282.05
+PROD-0212,Rice Cooker,Home & Kitchen,SPL-212,57.38,49.99
+PROD-0213,Phone Grip,Accessories,SPL-213,57.46,53.68
+PROD-0214,Toaster Oven,Home & Kitchen,SPL-214,315.48,269.74
+PROD-0215,Laptop Stand,Accessories,SPL-215,111.61,100.84
+PROD-0216,Mechanical Keyboard,Electronics,SPL-216,1039.43,914.72
+PROD-0217,Food Processor,Home & Kitchen,SPL-217,216.6,191.99
+PROD-0218,Monitor Stand,Furniture,SPL-218,964.78,833.6
+PROD-0219,Laptop Sleeve,Accessories,SPL-219,257.57,240.28
+PROD-0220,Wireless Mouse,Electronics,SPL-220,1139.61,971.85
+PROD-0221,Power Strip,Electronics,SPL-221,674.57,625.07
+PROD-0222,Microphone,Electronics,SPL-222,1057.64,986.17
+PROD-0223,Bookshelf,Furniture,SPL-223,1468.38,1337.59
+PROD-0224,Portable Charger,Accessories,SPL-224,87.08,77.99
+PROD-0225,Bluetooth Headphones,Electronics,SPL-225,169.44,156.15
+PROD-0226,Noise Cancelling Headset,Electronics,SPL-226,1102.06,1006.87
+PROD-0227,Smart Watch,Electronics,SPL-227,314.79,287.84
+PROD-0228,Cable Organizer,Accessories,SPL-228,183.61,166.18
+PROD-0229,Storage Containers,Home & Kitchen,SPL-229,57.07,49.64
+PROD-0230,Kitchen Blender,Home & Kitchen,SPL-230,497.23,448.17
+PROD-0231,Wall Clock,Home & Kitchen,SPL-231,384.19,330.61
+PROD-0232,Storage Shelf,Furniture,SPL-232,1681.31,1560.21
+PROD-0233,WiFi Router,Electronics,SPL-233,1081.17,982.86
+PROD-0234,Air Purifier,Home & Kitchen,SPL-234,264.77,247.65
+PROD-0235,Smartphone Case,Accessories,SPL-235,192.28,167.94
+PROD-0236,Standing Desk,Furniture,SPL-236,1786.92,1572.46
+PROD-0237,Throw Pillows,Home & Kitchen,SPL-237,416.9,364.61
+PROD-0238,Wireless Charger,Electronics,SPL-238,1182.78,1087.02
+PROD-0239,Wireless Presenter,Electronics,SPL-239,263.99,226.69
+PROD-0240,USB-C Hub,Electronics,SPL-240,603.51,550.63
+PROD-0241,Wireless Earbuds,Electronics,SPL-241,126.66,118.55
+PROD-0242,Electric Kettle,Home & Kitchen,SPL-242,474.21,430.15
+PROD-0243,Desk Organizer,Accessories,SPL-243,101.32,91.73
+PROD-0244,Screen Protector,Accessories,SPL-244,141.69,121.76
+PROD-0245,Desk Lamp,Home & Kitchen,SPL-245,131.2,117.74
+PROD-0246,4K Monitor,Electronics,SPL-246,1118.64,1039.31
+PROD-0247,Water Bottle,Home & Kitchen,SPL-247,176.08,164.35
+PROD-0248,File Cabinet,Furniture,SPL-248,199.69,176.58
+PROD-0249,Webcam HD,Electronics,SPL-249,207.14,188.12
+PROD-0250,Keyboard Wrist Rest,Accessories,SPL-250,269.07,229.16
