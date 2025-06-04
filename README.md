@@ -11,7 +11,8 @@ This is a fully automated inventory management system built in **Microsoft Excel
 
 ## 📸 Project Dashboard Screenshot
 
-![Dashboard Overview](https://raw.githubusercontent.com/NIKHILG15/Automated-Inventory-Management-System/main/screenshots/dashboard.png)
+![Dashboard Overview](https://github.com/NIKHILG15/Automated-Inventory-Management-System/blob/38b46f340f7ee62dbd700b1191e76683fe405cdf/Dashboard_image.png?raw=true)
+
 
 *The image above shows the final dashboard interface with key performance indicators (KPIs) including total customers, products, purchase & sales amounts, current stock, and profit/loss. It also highlights top-selling products, best customers, and a live notification board that alerts when any product stock falls below a threshold.*
 
